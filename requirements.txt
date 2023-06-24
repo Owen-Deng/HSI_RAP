@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+openpyxl
+scikit-learn
+scipy
+spectral
+Ninja
+scikit-image
+tensorboard
+seaborn
+visdom
